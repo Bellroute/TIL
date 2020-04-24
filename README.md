@@ -26,5 +26,5 @@
 
 ### Web
 
-- [쿠키vs세션vs웹 스토리지](https://github.com/Bellroute/TIL/blob/master/Web/쿠키vs세션vs웹 스토리지.md)
+- [쿠키vs세션vs웹 스토리지](https://github.com/Bellroute/TIL/blob/master/Web/쿠키vs세션vs웹%20스토리지.md)
 
