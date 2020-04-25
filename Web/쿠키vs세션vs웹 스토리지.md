@@ -74,4 +74,4 @@ HTTP 프로토콜은 다음과 같은 특징을 가진다.
 > - [쿠키, 세션 그리고 웹 스토리지](https://velog.io/@hellozin/쿠키-세션-그리고-웹-스토리지)
 >
 > - [HTML5 저장소(세션스토리지,로컬스토리지) 및 쿠키](https://useful-coding-dictionary.tistory.com/entry/HTML-5-저장소세션스토리지로컬스토리지-및-쿠키)
-> - [HTTP 쿠키 (Wikipedia 번역)]([https://chanwookpark.github.io/cookie/web/%EB%B2%88%EC%97%AD/2016/02/17/http-cookie-wikipedia/#%EC%BF%A0%ED%82%A4-%EC%86%8D%EC%84%B1](https://chanwookpark.github.io/cookie/web/번역/2016/02/17/http-cookie-wikipedia/#쿠키-속성))
+> - [HTTP 쿠키 (Wikipedia 번역)](https://chanwookpark.github.io/cookie/web/번역/2016/02/17/http-cookie-wikipedia/#쿠키-속성)
