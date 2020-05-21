@@ -16,7 +16,7 @@
 
 - [제네릭(Generics)와 컬렉션(Collection)](https://github.com/Bellroute/TIL/blob/master/Java/제네릭(Generics)와%20컬렉션(Collection).md)
 - [String vs StringBuffer vs StringBuilder](https://github.com/Bellroute/TIL/blob/master/Java/StringVsStringBufferVsStringBuilder.md)
-- [JVM 구조](https://github.com/Bellroute/TIL/blob/master/Java/JVM 구조.md)
+- [JVM 구조](https://github.com/Bellroute/TIL/blob/master/Java/JVM%20구조.md)
 
 
 
