@@ -30,6 +30,7 @@
 
 - [TCP/IP](https://github.com/Bellroute/TIL/blob/master/Network/TCP:IP.md)
 - [TCP와 UDP](https://github.com/Bellroute/TIL/blob/master/Network/TCP와UDP.md)
+- [HTTP 메소드](https://github.com/Bellroute/TIL/blob/master/Network/HTTP메소드.md)
 
 
 
