@@ -23,7 +23,7 @@
 ### Database
 
 - [SQL vs NoSQL](https://github.com/Bellroute/TIL/blob/master/Database/SQLvsNoSQL.md)
-- [정규화(Normaliztion)](https://github.com/Bellroute/TIL/blob/master/Database/정규화(Normalization).md)
+- [정규화(Normaliztion)와 역정규화(Denormalization)](https://github.com/Bellroute/TIL/blob/master/Database/정규화(Normalization)와%20역정규화(Denormalization).md)
 
 </br>
 
