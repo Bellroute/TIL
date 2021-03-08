@@ -17,6 +17,7 @@
 - [String vs StringBuffer vs StringBuilder](https://github.com/Bellroute/TIL/blob/master/Java/StringVsStringBufferVsStringBuilder.md)
 - [JVM 구조](https://github.com/Bellroute/TIL/blob/master/Java/JVM%20구조.md)
 - [JVM-ClassLoader](https://github.com/Bellroute/TIL/blob/master/Java/JVM-ClassLoader.md)
+- [JVM-Runtime Data Area](https://github.com/Bellroute/TIL/blob/master/Java/JVM-Runtime%20Data%20Area.md)
 - [Java는 Call-By-Value인가 Call-By-Reference인가?](https://github.com/Bellroute/TIL/blob/master/Java/Java는%20Call-By-Value인가%20Call-By-Reference인가.md)
 
 </br>
