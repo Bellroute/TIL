@@ -57,4 +57,5 @@
 ### 운영체제
 
 - [프로세스&스레드](https://github.com/Bellroute/TIL/blob/master/운영체제/프로세스&스레드.md)
+- [CPU 스케쥴링](https://github.com/Bellroute/TIL/blob/master/운영체제/CPU스케쥴링.md)
 
