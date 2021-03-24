@@ -60,4 +60,5 @@
 - [CPU 스케쥴링](https://github.com/Bellroute/TIL/blob/master/운영체제/CPU스케쥴링.md)
 - [프로세스 동기화](https://github.com/Bellroute/TIL/blob/master/운영체제/프로세스_동기화.md)
 - [데드락(Deadlock)](https://github.com/Bellroute/TIL/blob/master/운영체제/데드락(Deadlock).md)
+- [메모리 관리](https://github.com/Bellroute/TIL/blob/master/운영체제/메모리_관리.md)
 
