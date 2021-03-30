@@ -63,3 +63,9 @@
 - [메모리 관리](https://github.com/Bellroute/TIL/blob/master/운영체제/메모리_관리.md)
 - [가상 메모리](https://github.com/Bellroute/TIL/blob/master/운영체제/가상_메모리.md)
 
+</br>
+
+### 자료구조
+
+- [배열(Array)과 리스트(List)](https://github.com/Bellroute/TIL/blob/master/자료구조/배열(Array)과_리스트(List).md)
+
