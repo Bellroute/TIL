@@ -26,9 +26,12 @@
 
 ### Database
 
+- [DBMS](https://github.com/Bellroute/TIL/blob/master/Database/DBMS.md)
 - [SQL vs NoSQL](https://github.com/Bellroute/TIL/blob/master/Database/SQLvsNoSQL.md)
 - [정규화(Normaliztion)와 역정규화(Denormalization)](https://github.com/Bellroute/TIL/blob/master/Database/정규화(Normalization)와%20역정규화(Denormalization).md)
 - [트랜잭션(Transaction)](https://github.com/Bellroute/TIL/blob/master/Database/트랜잭션(Transaction).md)
+- [트랜잭션 격리 수준](https://github.com/Bellroute/TIL/blob/master/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EA%B2%A9%EB%A6%AC_%EC%88%98%EC%A4%80.md)
+- [인덱스(Index)](https://github.com/Bellroute/TIL/blob/master/Database/인덱스(index).md)
 
 </br>
 
