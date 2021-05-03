@@ -82,3 +82,10 @@
 - [ORM](https://github.com/Bellroute/TIL/blob/master/Spring/ORM.md)
 - [AOP](https://github.com/Bellroute/TIL/blob/master/Spring/AOP.md)
 
+<br>
+
+### Design Pattern
+
+- [디자인 패턴(Degisn Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/디자인패턴(DesignPattern).md)
+- [전략 패턴(Strategy Pattern)](https://github.com/Bellroute/TIL/blob/master/Spring/전략패턴(Strategy_Pattern).md)
+
