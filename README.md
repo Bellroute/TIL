@@ -90,4 +90,6 @@
 - [전략 패턴(Strategy Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/전략패턴(Strategy_Pattern).md)
 - [템플릿 메소드 패턴(Templat Method Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/템플릿메소드패턴(TemplateMethodPattern).md)
 - [상태 패턴(State Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/상태패턴(StatePattern).md)
+- [데코레이터 패턴(Decorator Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/데코레이터패턴(DecoratorPattern).md)
+- [프록시 패턴(Proxy Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/프록시패턴(ProxyPattern).md)
 
