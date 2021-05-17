@@ -93,3 +93,6 @@
 - [데코레이터 패턴(Decorator Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/데코레이터패턴(DecoratorPattern).md)
 - [프록시 패턴(Proxy Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/프록시패턴(ProxyPattern).md)
 
+- [어댑터 패턴(AdapterPattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/어댑터패턴(AdapterPattern).md)
+- [옵저버 패턴(Observer Pattern)](https://github.com/Bellroute/TIL/blob/master/DesignPattern/옵저버패턴(ObserverPattern).md)
+
